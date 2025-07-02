@@ -1,13 +1,21 @@
-## Hi there 👋
+<h1 align="center">
+  Olá! eu sou João Victor Medeiros dos Santos
+</h1>
+<p align="center">
+  💻 Desenvolvedor Full Stack | Estudante de Programação | Apaixonado por Tecnologia
+</p><br><br>
+
+<div align="center">
+  
+## 👨‍💻 Linguagens de Programação:
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,nodejs,css&theme=light)](https://skillicons.dev)<br><br>
+
+## 🔍 Ferramentas e Tecnologias:
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,postgres,spring,mysql,eclipse,vscode,gulp,git,github&theme=light)](https://skillicons.dev)<br><br>
+
+</div>
 
 
-![1243814](https://github.com/user-attachments/assets/ed8b00e1-88bd-4041-b46d-81d0804a49aa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
