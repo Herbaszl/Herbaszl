@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/herbaszl"><img width="80%" alt="Olá, me chamo João Victor, Bem-Vindo(a) ao meu perfil" src="./src/phonto.png" /></a></p>
+<p align="center"><a href="https://github.com/herbaszl"><img width="80%" alt="Olá, me chamo João Victor, Bem-Vindo(a) ao meu perfil" src="./src/foto dois.png" /></a></p>
 
 <br>
 
