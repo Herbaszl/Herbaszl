@@ -29,9 +29,9 @@
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Herbaszl&repo=Spiderverse&theme=radical&hide_border=true" alt="Card do Projeto Spiderverse"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Herbaszl&repo=BraumPizza&theme=radical&hide_border=true" alt="Card do Projeto BraumPizza"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Herbaszl&repo=mine_birthday&theme=radical&hide_border=true" alt="Card do Projeto Meu Aniversário"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Herbaszl&repo=Spiderverse&theme=vue-dark&hide_border=true" alt="Card do Projeto Spiderverse"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Herbaszl&repo=BraumPizza&theme=vue-dark&hide_border=true" alt="Card do Projeto BraumPizza"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Herbaszl&repo=mine_birthday&theme=vue-dark&hide_border=true" alt="Card do Projeto Meu Aniversário"/>
 </p>
 
 
@@ -39,12 +39,12 @@
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Status</summary>
 
-![Herbaszl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herbaszl&theme=radical&hide_border=true)  
+![Herbaszl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herbaszl&theme=vue-dark&hide_border=true)  
 </details>
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Principais Linguagens</summary>
   
-![Herbaszl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herbaszl&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![Herbaszl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herbaszl&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </details>
 
