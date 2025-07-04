@@ -1,8 +1,11 @@
-<h1 align="center">
-  Olá! eu sou João Victor Medeiros dos Santos
-</h1>
+<p align="center"><a href="https://github.com/herbaszl"><img width="80%" alt="Olá, me chamo João Victor, Bem-Vindo(a) ao meu perfil" src="./src/phonto.png" /></a></p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18B121&width=435&lines=Dev+Full+Stack+Java+%E2%98%95;Apaixonado+por+Tecnologia+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Moro+na+Cidade+Maravilhosa+%F0%9F%93%8DRJ;Graduando+em+Gest%C3%A3o+de+T.I;Adoro+RPG's+de+mesa+%F0%9F%A4%93)](https://git.io/typing-svg)
+
+  Sou apaixonado por tecnologia e desenvolvimento desde criança. Atualmente, estou em formação como **Desenvolvedor Full Stack Java** pela **EBAC** e curso **Gestão da Tecnologia da Informação** pela **UNIFAEL**. Ao longo dessa trajetória, mergulhei em projetos que me desafiaram e ampliaram meu repertório técnico. Desenvolvi desde landing pages interativas, como a “Spiderverse”, uma landing page inspirada em streamings de filmes e séries, até aplicações mais complexas, como o sistema de Cadastro de Clientes, integrando banco de dados com frameworks Java e realizando testes com JUnit.
+
+
 
 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Atualmente
