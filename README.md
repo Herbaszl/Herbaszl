@@ -25,6 +25,11 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,postgres,spring,mysql,eclipse,vscode,gulp,git,github&theme=light)](https://skillicons.dev)<br><br>
 
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Herbaszl&repo=Spiderverse&theme=radical&hide_border=true" alt="Card do Projeto Spiderverse"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Herbaszl&repo=BraumPizza&theme=radical&hide_border=true" alt="Card do Projeto BraumPizza"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Herbaszl&repo=mine_birthday&theme=radical&hide_border=true" alt="Card do Projeto Meu Aniversário"/>
+</p>
 
 
 
