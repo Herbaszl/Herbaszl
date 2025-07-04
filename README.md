@@ -1,5 +1,6 @@
 <p align="center"><a href="https://github.com/herbaszl"><img width="80%" alt="Olá, me chamo João Victor, Bem-Vindo(a) ao meu perfil" src="./src/phonto.png" /></a></p>
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18B121&width=435&lines=Dev+Full+Stack+Java+%E2%98%95;Apaixonado+por+Tecnologia+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Moro+na+Cidade+Maravilhosa+%F0%9F%93%8DRJ;Graduando+em+Gest%C3%A3o+de+T.I;Adoro+RPG's+de+mesa+%F0%9F%A4%93)](https://git.io/typing-svg)
 
