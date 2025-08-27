@@ -40,7 +40,7 @@
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Status</summary>
 
-![Herbaszl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herbaszl&theme=vue-dark&hide_border=true)  
+![Herbaszl's Streak]([https://github-readme-streak-stats.herokuapp.com/?user=Herbaszl&theme=vue-dark&hide_border=true](https://camo.githubusercontent.com/7f1f20204a1f8e01481fedc96af599fc87176a42a0e64812b537f300a9b167e0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4865726261737a6c267468656d653d7675652d6461726b26686964655f626f726465723d74727565))  
 </details>
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Principais Linguagens</summary>
