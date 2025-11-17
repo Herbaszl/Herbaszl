@@ -19,7 +19,7 @@
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" />Linguagens de Programação
   
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,nodejs,css&theme=light)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,nodejs,nestjs,styledcomponents,react,vue,css&theme=light)](https://skillicons.dev)<br><br>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Ferramentas e Tecnologias:
